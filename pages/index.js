@@ -102,6 +102,7 @@ const handleAbout = () =>{
 				<Text
 					fontWeight={'700'}
 					fontSize={'6rem'}
+					color="white"
 				>Be More Creative</Text>
 			</Heading>
 			<Stack  direction="column" spacing={6} mt="20px" >
